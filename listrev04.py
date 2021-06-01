@@ -21,7 +21,7 @@ def main():
 
     ## just like extend, append expects exactly one item to be passed.
     ## If you'd like, uncomment the code below and see the error caused
-     iplist.append('aa:bb:cc:dd:ee:ff', '00:11:22:33:44:55')
+    # iplist.append('aa:bb:cc:dd:ee:ff', '00:11:22:33:44:55')
 
 if __name__ == "__main__":
     main() 
